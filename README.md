@@ -3,11 +3,11 @@
 ## 🚀 About Me
 I like to write code, In 2024 I took a shot at a non-traditional route to being a software engineer. Today I can confidently say I've used the technologies listed below to create fullstack web applications, which is amazing since I had no prior technical experience. 
 
-- 🔭 I'm currently working on [SpaceScribe], An interactive yet simplistic journaling app. 
-- 🌱 I'm currently learning [TailwindCSS]
+- 🔭 I'm currently working on SpaceScribe, An interactive yet simplistic journaling app. 
+- 🌱 I'm currently learning TailwindCSS
 - 💬 Ask me about web development, full-stack applications, or anything tech!
-- 📫 How to reach me: [tyreesewray14@gmail.com]
-- ⚡ Fun fact: [In my freetime, I'm either gaming or playing soccer so feel free to ask me about that as well.]
+- 📫 How to reach me: tyreesewray14@gmail.com
+- ⚡ Fun fact: In my freetime, I'm either gaming or playing soccer so feel free to ask me about that as well.
 
 ## 🛠️ Technologies & Tools
 
@@ -23,17 +23,11 @@ I like to write code, In 2024 I took a shot at a non-traditional route to being 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
 ## 🤝 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/tyreesewray)
-[![Portfolio] Coming Soon!
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tyreesewray14@gmail.com)
+Portfolio Coming Soon!
 
 ---
 ⭐️ From [Wraymar](https://github.com/Wraymar)
