@@ -3,11 +3,11 @@
 ## 🚀 About Me
 I like to write code, In 2024 I took a shot at a non-traditional route to being a software engineer. Today I can confidently say I've used the technologies listed below to create fullstack web applications, which is amazing since I had no prior technical experience. 
 
-- 🔭 I'm currently working on SpaceScribe, An interactive yet simplistic journaling app. 
+- 👷🏽‍♂️ I'm currently working on SpaceScribe, An interactive yet simplistic journaling app. 
 - 🌱 I'm currently learning TailwindCSS
 - 💬 Ask me about web development, full-stack applications, or anything tech!
-- 📫 How to reach me: tyreesewray14@gmail.com
-- ⚡ Fun fact: In my freetime, I'm either gaming or playing soccer so feel free to ask me about that as well.
+- ✉️ How to reach me: tyreesewray14@gmail.com
+- 😎 Fun fact: In my freetime, I'm either gaming or playing soccer so feel free to ask me about that as well.
 
 ## 🛠️ Technologies & Tools
 
@@ -30,4 +30,4 @@ I like to write code, In 2024 I took a shot at a non-traditional route to being 
 Portfolio Coming Soon!
 
 ---
-⭐️ From [Wraymar](https://github.com/Wraymar)
+From [Wraymar](https://github.com/Wraymar)
